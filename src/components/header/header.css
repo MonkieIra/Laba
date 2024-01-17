@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+header{
+    background: rgb(255, 209, 225);
+}
+
+header img{
+    width: 130px;
+    height: 100px;
+}
+
+.header-1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 310px;
+    align-items: center;
+    
+}
